@@ -1,6 +1,4 @@
 
-## Author: Matthew <Matthew@MATTHEW-PC>
-## Created: 2015-04-17
 
 function [outval] = GetDevInfo (serport)
 %Checks Device info.
